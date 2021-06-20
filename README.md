@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # THE GUARDIAN PROTOCOL
 
-`One of the overlooked, yet critical problems that the pandemic is continuously exposing, is the staggering rate at which crucial medical information and practices, spread without verification,a trusted fact-check, or with less or no scientific validation. The current means to verify a certain fact or procedure, is to either research yourself , or wait for validation by any of your trusted source (like your doctor, govt etc).
+One of the overlooked, yet critical problems that the pandemic is continuously exposing, is the staggering rate at which crucial medical information and practices, spread without verification,a trusted fact-check, or with less or no scientific validation. The current means to verify a certain fact or procedure, is to either research yourself , or wait for validation by any of your trusted source (like your doctor, govt etc).
 
 Now its rather clear that the first method is time consuming, and requires you yourself to have experience and knowledge in the relevant field which won't be the case most of the time.
 
