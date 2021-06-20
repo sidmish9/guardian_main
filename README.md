@@ -61,7 +61,7 @@ The system doesn't assure the absolute correct fact check as the science could i
 
 
 #### Word to judges
-The 100% implementation of this protocol, is beyond the scope of my expertise and experience as I am a beginner in the field, Your inputs are valuable to me, Kindly contact me if you find this idea successfully.
+The 100% implementation of this protocol, is beyond the scope of my expertise and experience as I am a beginner in the field, Your inputs are valuable to me, Kindly contact me if you find this idea potent enough.
 
 
 
