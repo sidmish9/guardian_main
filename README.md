@@ -60,11 +60,6 @@ The medical experts undergo a KYC process, which is also done exclusively to pro
 The system doesn't assure the absolute correct fact check as the science could itself be wrong, however it is proven to provide the solution with **the highest probability of being correct.**
 
 
-#### Word to judges
-The 100% implementation of this protocol, is beyond the scope of my expertise and experience as I am a beginner in the field, Your inputs are valuable to me, Kindly contact me if you find this idea potent enough.
-
-
-
 Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
